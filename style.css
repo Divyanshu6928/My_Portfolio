@@ -48,6 +48,12 @@ body{
 .content-home h3 span{
     color: #f4ca16;
 }
+.content-home h3{
+    color: #fff;
+}
+.content-home h5{
+    color: #fff;
+}
 .content-home h1,h3,h4,span,h5{
     color: #ffffff;
 }
@@ -81,6 +87,11 @@ body{
     color:#fff
     
 }
+
+.about-text h3{
+    color:#fff
+    }
+
 .about-text h3 span{
     color: #ff0000;
 }
@@ -155,3 +166,98 @@ body{
     color: #fff;
     border-radius: 20px;
 }
+
+.skills h1{
+    color: #fff;
+    margin: 30px;
+    text-align: center;
+    font-size: 37px;
+    padding: 40px;
+}
+
+.skills1,.skills2{
+    color: #080808;
+    margin-left: 200px; 
+    padding-left: 50px;
+    margin-right: 200px; 
+    padding-right: 50px;
+    margin-bottom: 100px; 
+    padding-bottom: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 25px;
+}
+
+.skills1 ul{
+    color: #fff;
+}
+
+.skills2 ul{
+    color: #fff;
+}
+
+.skills1,.skills2{
+    display: inline-block;
+}
+
+.projects{
+    color: #080808;
+    text-align: center;
+    margin: 30px;
+    font-size: 27px;
+    padding: 40px;
+}
+.agrictech,.zeb{
+    display: inline;
+}
+
+.p{
+    color: #fff;
+}
+
+.footer{
+    color: #fff;
+    text-align: center;
+    /* font-size: 28px; */
+    margin-top: 50px;
+    margin-bottom: 25px ;
+}
+
+.footer h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+}
+
+.form{
+    margin: 50px;
+    color: #080808;
+    border: 2px solid #fff;
+    border-radius: 9%;
+    justify-content: center;
+    
+    max-width: 600px;
+    text-align: unset ;
+    border-top-color: #f4ca16;
+    background-color: #f4ca16;
+    padding: 20px;
+    
+}
+.button{
+    background-color: #080808;
+    color: #f4ca16;
+    padding: 10px;
+    border-radius: 25%;
+}
+.button:hover{
+    background-color: green;
+}
+.footer h1{
+    justify-content: right;
+}
+
+h4{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #fff;
+    text-align: center;
+}
+
