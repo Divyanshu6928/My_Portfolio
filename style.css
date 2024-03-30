@@ -37,7 +37,7 @@ body{
     width: 70%; 
     justify-content: space-between;
     height: 100vh; 
-    background: url(./DG.png) no-repeat; 
+    background: url(./Images/DG.png) no-repeat; 
     background-size: cover;
     background-position: center; 
     display: flex; 
